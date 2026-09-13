@@ -251,10 +251,15 @@ function App() {
             <div>🌐 Avoid suspicious links</div>
             <div>🔄 Keep software updated</div>
           </div>
-        </section>
-      </main>
-    </div>
-  );
+       </section>
+
+<footer className="footer">
+  <p>Project Developed by: Sushanto Singh</p>
+</footer>
+
+</main>
+</div>
+);
 }
 
 export default App;
